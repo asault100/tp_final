@@ -73,7 +73,7 @@
 
 #intro{
     padding: 0 50px;
-    background-image: url(/prueba2/images/background.jpg);
+    background-image: url(/tp_final/images/background.jpg);
     height: 50vh;/*altura de imagen*/
     background-size: cover;/*para que cubra todo y cuando se achique la pantalla no se corte la imagen*/
     background-position: center;
